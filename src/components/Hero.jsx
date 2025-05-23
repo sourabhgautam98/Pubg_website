@@ -151,7 +151,7 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              LAND, LOOT, SURVIUE! <br /> Play PUNG:BATTEGROUNDS for Free
+              LAND, LOOT, SURVIUE! <br /> Play PUBG:BATTEGROUNDS for Free
             </p>
 
             <a
